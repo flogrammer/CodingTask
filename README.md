@@ -26,3 +26,6 @@ The python sorting method uses timsort which has O(n*log(n)).
 The only dynamic part of the algorithm is the generated merged list.
 In the worst case (when having no overlaps) the space complexity is O(n).
 In the best case, when there is a full overlap, the space complexity is O(1).
+
+### Processing time:
+The implementation took around 2 hours.
